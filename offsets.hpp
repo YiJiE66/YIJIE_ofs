@@ -23,7 +23,7 @@ namespace cs2_dumper {
             constexpr std::ptrdiff_t dwSensitivity = 0x1E2BD08;
             constexpr std::ptrdiff_t dwSensitivity_sensitivity = 0x50;
             constexpr std::ptrdiff_t dwViewAngles = 0x1E397F0;
-            constexpr std::ptrdiff_t dwViewMatrix = 0x1E2F3D0;
+            constexpr std::ptrdiff_t dwViewMatrix = 0x1E36FF8;
             constexpr std::ptrdiff_t dwViewRender = 0x1E2FF48;
             constexpr std::ptrdiff_t dwWeaponC4 = 0x1DCC030;
         }
